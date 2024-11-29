@@ -1,0 +1,16 @@
+{
+  "name": "readline",
+  "version": "1.0.0",
+  "main": "Readline.js",
+  "scripts": {
+    "start": "nodemon Readline.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.7",
+    "uuid": "^11.0.2"
+  }
+}

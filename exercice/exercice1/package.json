@@ -1,0 +1,11 @@
+{
+  "name": "exercice1",
+  "version": "1.0.0",
+  "main": "exercice1.js",
+  "scripts": {
+    "exo": "nodemon exercice1.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

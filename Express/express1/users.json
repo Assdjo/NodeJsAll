@@ -1,0 +1,7 @@
+[
+    {"id" : 1, "nom": "DOE", "prenom": "john"},
+    {"id" : 2, "nom": "DOZE", "prenom": "jane"},
+    {"id" : 3, "nom": "ZULU", "prenom": "liberte"},
+    {"id" : 4, "nom": "ALPHA", "prenom": "jean"},
+    {"id" : 5, "nom": "BRAVO", "prenom": "lima"}
+]

@@ -1,0 +1,13 @@
+{
+   "message" : "liste des produit",
+    "produit": [
+        {"nom": "lait de vache" , "valeur": "2000fr"},
+        {"nom": "lait de vache" , "valeur": "2000fr"},
+        {"nom": "lait de vache" , "valeur": "2000fr"},
+        {"nom": "lait de vache" , "valeur": "2000fr"},
+        {"nom": "lait de vache" , "valeur": "2000fr"},
+        {"nom": "lait de vache" , "valeur": "2000fr"},
+        {"nom": "lait de vache" , "valeur": "2000fr"}
+    ]
+}
+

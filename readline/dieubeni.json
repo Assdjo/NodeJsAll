@@ -1,0 +1,24 @@
+{
+  "employes": [
+    {
+      "id": "27dd3168-0f26-4679-b41f-f0d71f20ba56",
+      "nom": "AZERTY",
+      "prenom": "UIOP",
+      "age": 21,
+      "matricule": "BJGLI0001",
+      "contrat": "CDD"
+    },
+    {
+      "id": "abd76052-9fcb-4191-bd39-8ea286ad9652",
+      "nom": "qsdf",
+      "prenom": "jklm",
+      "age": 22,
+      "matricule": "BJGLI0002",
+      "contrat": "CDI"
+    }
+  ],
+  "m1": 2,
+  "m2": 0,
+  "m3": 0,
+  "m4": 0
+}
